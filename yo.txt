@@ -3,4 +3,8 @@ member2-Vedant
 member3-shweta
 
 mem1-hi im a a backend developer
+<<<<<<< HEAD
+mem3-hi im a frontend developer
+=======
 mem2-hi i am a frontend devdeloper
+>>>>>>> 082ae22e3284571cb983c8098e3604d77c848c33
